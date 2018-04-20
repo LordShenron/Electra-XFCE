@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=XFCE theme
+Name=Electra-Remix
+Comment=A Flat theme with colors and window design like no other. The first theme of its kind.
+Encoding=UTF-8
+
+[XFCE-Theme]
+Name=Electra-REMIX
+GtkTheme=Electra-REMIX
+IconTheme=Electra-Remix
+MetacityTheme=Electra-Remix
