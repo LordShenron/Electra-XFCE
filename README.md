@@ -16,3 +16,4 @@ It simply provide a new look to your Linux DE. I have now made it compatible to 
 ![XFCE](https://i.imgur.com/j8uF7dD.png)
 
 
+priyanshu pandey rocks
